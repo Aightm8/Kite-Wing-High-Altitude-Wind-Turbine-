@@ -14,4 +14,8 @@ The units will be placed on the wing such that the centre of gravity will be man
 The wing sturcture and combined units have tails that allow them to move independently to face the wind direction. Direction chutes are mounted on the tips of the wing structure, these chutes are pulled by the wind and they in turn pull the sturcture towards the wind. The kite also pulls itself towards the wind direction. <br>
 These are measures taken to ensure an optimum, smooth, linear, non-turbulent windflow through the turbine units for maximum efficiency.
 The KW-HAWT however will not be able to attain significant lift to launch itself from the ground due to limited wind speed, it will need to be carried and deployed to a high altitude with the use of an aircraft. A UAV would be useful for this purpose as deployement missions would be quicker, cheaper and safer.
+<br>
+<br>
+<br>
+![alt text](https://github.com/Aightm8/Kite-Wing-High-Altitude-Wind-Turbine-/blob/master/HAWT%20front%20with%20single%20turbine.PNG)
 
