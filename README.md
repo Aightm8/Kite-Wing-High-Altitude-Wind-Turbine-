@@ -6,7 +6,7 @@ A novel design for a High Altitude Wind Turbine
 
 ![alt text](https://github.com/Aightm8/Kite-Wing-High-Altitude-Wind-Turbine-/blob/master/Kite%20Wing%20HAWT%20white%20background.PNG)
 <br>
-Description and operation
+**Description and operation**
 <br>
 <br>
 The KW-HAWT is a new take on launching wind turbines to reach higher wind speeds at greater altitudes. Wind energy is harvested from wind turbine units made up of a funnel, tunnel and diffuser applying the Venturi effect to maximise wind flow and efficiency. Getting these units up there is the problem and is where the kite-wing aspect comes in. The Kite provides the majority of lift force required to keep the structure in the air but lift is also provided by the airfoil shaped wing which generates a force from the pressure difference from the flow of wind against it. Tubes mounted on the top of the wing mechanically turned by wind turbines on its side provides additional lift from the Magnus effect. The number of turbine units that can be mounted on the structure depends on the total lift force generated. <br>
