@@ -23,5 +23,5 @@ The KW-HAWT however will not be able to attain significant lift to launch itself
 <br>
 The Kite Wing High Altitude Wind Turbine is licensed under the TAPR Open Hardware License (www.tapr.org/OHL).
 <br>
-In support of innovation in strengthening renewables and combating climate change.
+In support of open source innovation in strengthening renewables and combating climate change.
 
