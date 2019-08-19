@@ -1,6 +1,8 @@
 # Kite-Wing-High-Altitude-Wind-Turbine-
 A novel design for a High Altitude Wind Turbine 
 <br>
+This is currently a concept, a working model is yet to be built.
+<br>
 <br>
 
 
